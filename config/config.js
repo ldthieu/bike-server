@@ -1,21 +1,21 @@
 
 module.exports = {
-    // db: {
-    //     database: 'd6n82pvue4qnvs',
-    //     username: 'yvxxfjnrnirlbj',
-    //     password: '963132ee9ea9d0a9ad050416ac843b50b130eeefe607870f4f243d284c2968ef',
-    //     host: 'ec2-23-21-164-107.compute-1.amazonaws.com',
-    //     dialect: 'postgres',
-    //     port: 5432
-    // },
     db: {
-        database: 'geocodingbike',
-        username: 'postgres',
-        password: '0914814880',
-        host: 'localhost',
+        database: 'd690b3bupaedl5',
+        username: 'gkueavdxmlohro',
+        password: '7980ff4c6bba25fd25c3ea05ca6455856870bb51958fefb715fee5eadfa4a53f',
+        host: 'ec2-54-83-15-95.compute-1.amazonaws.com',
         dialect: 'postgres',
         port: 5432
     },
+    // db: {
+    //     database: 'geocodingbike',
+    //     username: 'postgres',
+    //     password: '0914814880',
+    //     host: 'localhost',
+    //     dialect: 'postgres',
+    //     port: 5432
+    // },
     pool: {
         max: 20,
         min: 0,
